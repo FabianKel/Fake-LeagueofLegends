@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3903857091737150862
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.035
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.035
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.035
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_Name
+      value: minion-blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: a0e946045eb70ff46899a89dc07cb88c, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7491055072626575757}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7164825001249774231}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -2483526582721016058}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -5108828622144634758}
+  m_SourcePrefab: {fileID: 100100000, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+--- !u!1 &4245804310797801695 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7a50588f38bd93447a5b4033f8bb4427, type: 3}
+  m_PrefabInstance: {fileID: 3903857091737150862}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7491055072626575757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4245804310797801695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36b8712a90aaccd4fb2ca4eaba23869d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MinionIA
+  objetivoFinal: {fileID: 0}
+  objetivoActual: {fileID: 0}
+  rangoDeteccion: 15
+  rangoAtaque: 5
+  velocidadAtaque: 1.2
+--- !u!114 &7164825001249774231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4245804310797801695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 312c50c0a4e79c84395db5f53d5f5584, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EntidadStats
+  equipo: 0
+  vidaMax: 30
+  vidaActual: 0
+  "da\xF1o": 5
+  deathDelay: 2.5
+  esMuerte: 0
+  barraVidaLocal: {fileID: 0}
+  flashRojo: {fileID: 0}
+--- !u!195 &-2483526582721016058
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4245804310797801695}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 35
+  m_Speed: 10
+  m_Acceleration: 1000
+  avoidancePriority: 50
+  m_AngularSpeed: 180
+  m_StoppingDistance: 1.5
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 35
+  m_BaseOffset: 0.1
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 1
+--- !u!136 &-5108828622144634758
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4245804310797801695}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 100
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 50, z: 0}
